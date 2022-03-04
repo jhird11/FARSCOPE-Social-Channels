@@ -16,7 +16,7 @@ Creator/Admin: Julian Hird
 
 https://chat.whatsapp.com/D5auy6quJ0pInDcxn9mLNM
 
-## Discord 
+## FARSCOPE Discord 
 
 Creator/Admin: Lizzie Stone
 

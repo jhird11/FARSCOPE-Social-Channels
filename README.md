@@ -8,7 +8,7 @@ Creator/Admin: Mickey Li
 
 https://chat.whatsapp.com/CJP0O9D2PFh0ef34QmEEba 
 
-## Club nights and gigs
+## Club nights, out out and gigs
 
 A group for the dancers and dreamers and anyone else who likes a boogie in Bristol
 

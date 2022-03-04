@@ -10,7 +10,7 @@ https://chat.whatsapp.com/CJP0O9D2PFh0ef34QmEEba
 
 ## Club nights and gigs
 
-A group for the dancers and dreamers. 
+A group for the dancers and dreamers and anyone else who likes a boogie in Bristol
 
 Creator/Admin: Julian Hird
 

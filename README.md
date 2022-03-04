@@ -1,6 +1,8 @@
 # FARSCOPE-Social-Channels
 
-FARSCOPES are a busy and diverse bunch. Below are a list of Servers, WhatsApp groups with their descriptions. If you have one to add submit an issue containing the details and URLs of the channel and it'll get included into the list below. Or if you're feeling fancy you can also do a pull request.
+FARSCOPERs are a busy and diverse bunch. Below are a list of servers, WhatsApp groups with their descriptions. If you have created a group or thing you wish to add you can do so by submitting an issue containing the details and relavent URLs. It will then be added to list below. If you're feeling fancy you can also do a pull request.
+
+Maintained by: Julian Hird (j.hird@bristol.ac.uk)
 
 ## Band and Music stuff
 
